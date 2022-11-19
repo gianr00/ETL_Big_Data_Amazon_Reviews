@@ -1,2 +1,6 @@
-# ETL_Big_Data_Amazon_Reviews
-ETL (Extract, Transform and Load) of Big Data using Amazon Reviews S3 datasets
+# ETL (Extract, Transform and Load) of Big Data using Amazon Reviews data
+
+Author: Rosie Gianan, gianr00@gmail.com
+
+Build With: Python, Pandas,  AWS S3 and RDS, PySpark, Postgres, jupyter notebook 
+
