@@ -1,4 +1,4 @@
-# ETL (Extract, Transform and Load) of Big Data using Amazon Reviews data
+# ETL (Extract, Transform and Load) of Big Data using Amazon Reviews dataset
 
 Author: Rosie Gianan, gianr00@gmail.com
 
